@@ -1,0 +1,36 @@
+body {
+    background-image: url("file1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+h1 {
+    vertical-align: top;
+    font-size: 210px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table {
+    background-color: transparent;
+    height: 154px;
+}
+td {
+   font-size: 28px;
+}
+input {
+    height: 34px;
+}
+button {
+    background-color: black;
+        border: none;
+        color: white;
+        padding: 12px 21px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 12px;
+        margin: 4px 2px;
+        cursor: pointer;
+}
+.border {
+  color: aquamarine;
+}
